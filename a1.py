@@ -1,4 +1,4 @@
-c = input()
+v = input()
 m=int(input())
 n=int(input())
 a=int(input())
